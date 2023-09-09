@@ -1,5 +1,5 @@
 title: Liz Barron
-logo: [/assets/img/2.png]
+logo: /assets/img/2.png
 description: [Learning and Development and xAPI Consultant]
 #show_downloads: true
 theme: jekyll-theme-minimal
