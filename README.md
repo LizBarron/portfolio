@@ -9,7 +9,7 @@ But it's not just about the technology; it's about the magic that happens when c
 
 Outside of work, I enjoy media editing and am very interested in learning more about voiceover work. I love learning and passing on information in fun and creative ways, leading me to start a YouTube channel to teach people about xAPI. I'm also in the process of creating a parenting advice podcast.
 
-If you'd like to connect, please feel free to do so here or via email at mailto:lizbarrondev@gmail.com.
+If you'd like to connect, please feel free to do so here or via email at [lizbarrondev@gmail.com] (lizbarrondev@gmail.com).
 
 # Portfolio
 
