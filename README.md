@@ -12,7 +12,7 @@ Outside of work, I enjoy media editing and am very interested in learning more a
 If you'd like to connect, please feel free to do so here or via email at <a href = "mailto: lizbarrondev@gmail.com">lizbarrondev@gmail.com</a>.
 
 # Work Experience
-### Learning & Development & xAPI ConsultantLearning & Development & xAPI Consultant
+### Learning & Development & xAPI Consultant
 Self Employed · Freelance
 Jun 2023 - Present · 4 mos
 - Consulted an international higher education client on implementing and integrating Experience API (xAPI) solutions within their learning management systems (LMS), OpenLMS, leveraging a Moodle-based plug-in; led plug-in testing.
@@ -21,7 +21,7 @@ Jun 2023 - Present · 4 mos
 
 Skills: Instructional Design · Experience API (xAPI) · xAPI · Virtual Instructor-led Training · Communication · E-Learning · Learning Management Systems
 
-### Learning Experience Developer & Front-end DeveloperLearning Experience Developer & Front-end Developer
+### Learning Experience Developer & Front-end Developer
 TorranceLearning · Full-time
 Aug 2021 - May 2023 · 1 yr 10 mos
 - Collaborated with the course development and software development teams on 20+ projects to build courses using Articulate Storyline, Rise, Adobe Captivate, and xAPI.
