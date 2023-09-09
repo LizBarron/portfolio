@@ -11,15 +11,32 @@ Outside of work, I enjoy media editing and am very interested in learning more a
 
 If you'd like to connect, please feel free to do so here or via email at <a href = "mailto: lizbarrondev@gmail.com">lizbarrondev@gmail.com</a>.
 
-### Work Experience
+# Work Experience
+### Learning & Development & xAPI ConsultantLearning & Development & xAPI Consultant
+Self Employed · Freelance
+Jun 2023 - Present · 4 mos
+- Consulted an international higher education client on implementing and integrating Experience API (xAPI) solutions within their learning management systems (LMS), OpenLMS, leveraging a Moodle-based plug-in; led plug-in testing.
+- Delivered 4 virtual, instructor-led xAPI training sessions in Spanish for the 16-person L&D and IT departments.
+- Provided instructional design and course development services utilizing industry-standard authoring and creative tools, such as Articulate Storyline, Rise, Adobe Captivate, Adobe Creative Cloud, and Camtasia.
+
+Skills: Instructional Design · Experience API (xAPI) · xAPI · Virtual Instructor-led Training · Communication · E-Learning · Learning Management Systems
+
+### Learning Experience Developer & Front-end DeveloperLearning Experience Developer & Front-end Developer
+TorranceLearning · Full-time
+Aug 2021 - May 2023 · 1 yr 10 mos
+- Collaborated with the course development and software development teams on 20+ projects to build courses using Articulate Storyline, Rise, Adobe Captivate, and xAPI.
+- Created videos, edited audio and video, captioned videos, and translated content into Spanish; utilized Vue.js framework for front-end software development.
+- Developed a course footprint, consulting the Instructional Designer to identify course requirements, and leveraged Agile principles to create deliverables and meet deadlines.
+- Served as the virtual host for the xAPI Party, a gathering of 120+ thought leaders.
+- Hosted the 2022 virtual Download Conference, a L&D educational conference with 100+ attendees.
+
+Skills: E-Learning Development · xAPI · Articulate Storyline · Articulate 360 · Adobe Creative Suite
+
+# Projects
+### xAPI Integration
 
 
-# Portfolio
-### Projects
-xAPI Integration
+### Accessibility
 
 
-Accessibility
-
-
-Web Application
+### Web Application
