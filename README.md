@@ -1,5 +1,5 @@
 # About Me
-I'm an e-Learning Consultant with 12+ years of experience in learning and development (L&D) and 5+ years in instructional design (ID). I'm currently an L&D and Experience API (xAPI) Consultant, where I've helped international higher education clients seamlessly integrate xAPI solutions into their learning management systems.
+I'm an e-Learning Consultant with 12+ years of experience in learning and development (L&D) and 8+ years in instructional design (ID). I'm currently an L&D and Experience API (xAPI) Consultant, where I've helped international higher education clients seamlessly integrate xAPI solutions into their learning management systems.
 
 My career has taken me from freelancing to collaborating with dynamic teams at leading organizations like TorranceLearning, where I've worked to master the art of crafting transformative learning experiences. 
 
