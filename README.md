@@ -35,7 +35,7 @@ Remote<br>
 
 <b>Skills:</b> E-Learning Development · xAPI · Articulate Storyline · Articulate 360 · Adobe Creative Suite
 
-### Front-end Software Developer/n
+### Front-end Software Developer\n
 Self Employed · Freelance<br>
 Aug 2019 - Aug 2021 · 2 yrs 1 mo<br>
 Remote<br>
