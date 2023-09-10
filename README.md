@@ -15,6 +15,7 @@ If you'd like to connect, please feel free to do so here or via email at <a href
 ### Learning & Development & xAPI Consultant
 Self Employed · Freelance<br>
 Jun 2023 - Present · 4 mos<br>
+Remote<br>
 - Consulted an international higher education client on implementing and integrating Experience API (xAPI) solutions within their learning management systems (LMS), OpenLMS, leveraging a Moodle-based plug-in; led plug-in testing.
 - Delivered 4 virtual, instructor-led xAPI training sessions in Spanish for the 16-person L&D and IT departments.
 - Provided instructional design and course development services utilizing industry-standard authoring and creative tools, such as Articulate Storyline, Rise, Adobe Captivate, Adobe Creative Cloud, and Camtasia.
@@ -24,6 +25,7 @@ Jun 2023 - Present · 4 mos<br>
 ### Learning Experience Developer & Front-end Developer
 TorranceLearning · Full-time<br>
 Aug 2021 - May 2023 · 1 yr 10 mos<br>
+Remote<br>
 - Collaborated with the course development and software development teams on 20+ projects to build courses using Articulate Storyline, Rise, Adobe Captivate, and xAPI.
 - Created videos, edited audio and video, captioned videos, and translated content into Spanish; utilized Vue.js framework for front-end software development.
 - Developed a course footprint, consulting the Instructional Designer to identify course requirements, and leveraged Agile principles to create deliverables and meet deadlines.
@@ -35,6 +37,7 @@ Aug 2021 - May 2023 · 1 yr 10 mos<br>
 ### Front-end Software Developer
 Self Employed · Freelance<br>
 Aug 2019 - Aug 2021 · 2 yrs 1 mo<br>
+Remote<br>
 - Partnered with the Chief Executive Officer, marketing, and development teams to execute a website redesign, update the company blog, and build new web pages based on target audience feedback and data.
 - Utilized workflow tools, including HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, SQL, and Google Optimize, to test code and optimize all cross-browser and multi-platform compatibility.
 - Designed A/B tests, utilizing Google Optimize to track user flows and preferences throughout the site, informing recommendations on features to keep and sunset.
