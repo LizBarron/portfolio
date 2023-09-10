@@ -7,7 +7,7 @@ With tools like Articulate Storyline, Rise, and Adobe Captivate, I'm able to cre
 
 But it's not just about the technology; it's about the magic that happens when creativity, innovation, and education converge. I've had the privilege of hosting industry events, sharing insights with thought leaders, and continuously pushing the boundaries of what's possible in the e-learning universe.
 
-Outside of work, I enjoy media editing and am very interested in learning more about voiceover work. I love learning and passing on information in fun and creative ways, leading me to start a YouTube channel to teach people about xAPI. I'm also in the process of creating a parenting advice podcast.
+Outside of work, I enjoy media editing and am very interested in learning more about voiceover work. I love learning and passing on information in fun and creative ways, leading me to start a YouTube channel to teach people about e-Learning and xAPI. I'm also in the process of creating a parenting advice podcast.
 
 If you'd like to connect, please feel free to do so here or via email at <a href = "mailto: lizbarrondev@gmail.com">lizbarrondev@gmail.com</a>.
 
