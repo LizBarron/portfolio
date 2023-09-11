@@ -94,4 +94,3 @@ Austin, Texas Area
 <img src="{{site.baseurl | prepend: site.url}}assets/img/NudgeNavigator-Step2.jpg" alt="Step 2" style="width:50%;height:50%;"/><br>
 
 <img src="{{site.baseurl | prepend: site.url}}assets/img/NudgeNavigator-Step3.jpg" alt="Step 3" style="width:50%;height:50%;"/><br>
-
