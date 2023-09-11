@@ -88,6 +88,6 @@ Austin, Texas Area
 
 ### Web Application
 Nudge Navigator<br>
-<img src="/assets/img/Nudge Navigator - Step 1.jpg"><br>
-<img src="/assets/img/Nudge Navigator - Step 2.jpg"><br>
-<img src="/assets/img/Nudge Navigator - Step 3.jpg"><br>
+<img src="/assets/img/NudgeNavigator-Step1.jpg" alt="Step 1"><br>
+<img src="/assets/img/NudgeNavigator-Step2.jpg" alt="Step 2"><br>
+<img src="/assets/img/NudgeNavigator-Step3.jpg" alt="Step 3"><br>
