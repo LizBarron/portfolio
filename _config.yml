@@ -4,4 +4,4 @@ description: <p><b>e-Learning & xAPI Consultant</b><br><em>Leveraging technology
 #show_downloads: true
 theme: jekyll-theme-minimal
 url: 'https://github.com/LizBarron' # your main domain
-baseurl: 'https://lizbarron.github.io/portfolio/'
+baseurl: '/portfolio/'
