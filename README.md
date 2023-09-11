@@ -91,4 +91,5 @@ Nudge Navigator<br>
 <img src="/assets/img/NudgeNavigator-Step1.jpg" alt="Step 1" style="width:50%;height:50%;"><br>
 <img src="/assets/img/NudgeNavigator-Step2.jpg" alt="Step 2" style="width:50%;height:50%;"><br>
 <img src="/assets/img/NudgeNavigator-Step3.jpg" alt="Step 3" style="width:50%;height:50%;"><br>
-<img src="{{portfolio/ | prepend: https://lizbarron.github.io/}}assets/img/NudgeNavigator-Step1.jpg" alt="Step 1" />
+
+<img src="{{site.baseurl (portfolio/) | prepend: site.url(https://lizbarron.github.io/)}}assets/img/NudgeNavigator-Step1.jpg" alt="Step 1" />
