@@ -2,6 +2,6 @@ url: 'https://lizbarron.github.io/' # your main domain
 baseurl: 'portfolio/'
 title: Liz Barron
 #logo: /assets/img/2.png
-description: <p><b>e-Learning & xAPI Consultant </b><br><em>Leveraging technology to streamline workflows & develop engaging learning experiences</em></p><p><a href="https://www.linkedin.com/in/liz-barron/">View my LinkedIn Profile<br><small>https://www.linkedin.com/in/liz-barron/</small></a></p>
+description: <p><b>e-Learning & xAPI Consultant</b></p><p><em>Leveraging technology to streamline workflows & develop engaging learning experiences</em></p><p><a href="https://www.linkedin.com/in/liz-barron/">View my LinkedIn Profile<br><small>https://www.linkedin.com/in/liz-barron/</small></a></p>
 #show_downloads: true
 theme: jekyll-theme-minimal
