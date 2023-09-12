@@ -81,10 +81,10 @@ Austin, Texas Area
 
 # Projects
 ### xAPI Integration
-
+Under construction
 
 ### Accessibility
-
+Under construction
 
 ### Web Application - Nudge Navigator
 <b>Step 1</b><br>
