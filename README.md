@@ -84,7 +84,11 @@ Austin, Texas Area
 Under construction
 
 ### Accessibility
-Under construction
+<b>Project</b><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/QC1.jpg" alt="QC 1"/><br><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/QC2.jpg" alt="QC 2"/><br><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/QC3.jpg" alt="QC 3"/><br><br>
+<b>Description:</b><br>
 
 ### Web Application - Nudge Navigator
 <b>Step 1</b><br>
