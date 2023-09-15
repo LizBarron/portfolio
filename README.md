@@ -81,8 +81,8 @@ Austin, Texas Area
 
 # Awards
 <b>Best Personal Project - Learning Solutions Conference 2022</b><br>
-<img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project badge" style="max-width: 75%;"/><br><br>
-
+<img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project Badge" style="max-width: 75%;"/><br><br>
+I was a part of a 7 person team, and our mission was to create test courses on different course authoring platforms and run them through the ADL's CATAPULT Testing Suite to check for xAPI/cmi5 conformance. TorranceLearning submitted our project for the Learning Solutions Conference in April 2022, and we won the Best Personal Project category.
 
 # Projects
 ### xAPI Integration
