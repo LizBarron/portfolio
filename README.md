@@ -82,11 +82,11 @@ Austin, Texas Area
 # Awards
 <b>Best Personal Project - Learning Solutions Conference 2022</b><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project Badge" style="max-width: 75%;"/><br><br>
-I was a part of a 7 person team, and our mission was to create test courses on different course authoring platforms and run them through the ADL's <a href = "https://adlnet.gov/projects/cmi5-CATAPULT/">cmi5 CATAPULT! Test Suite</a> to check for xAPI/cmi5 conformance. TorranceLearning submitted our project for the Learning Solutions Conference in April 2022, and we won the Best Personal Project category.
+I was a part of a 7 person team (Team cmi5) during the Fall 2021 xAPI Cohort, and our mission was to create test courses on different course authoring platforms and run them through the ADL's <a href = "https://adlnet.gov/projects/cmi5-CATAPULT/">cmi5 CATAPULT! Test Suite</a> to check for xAPI/cmi5 conformance. TorranceLearning submitted our project for the Learning Solutions Conference in April 2022, and we won the Best Personal Project category.
 
 # Projects
-### xAPI Integration
-<b>Project</b><br>
+### xAPI Implementation
+<b>Project Description:</b> This project involved recreating an 8 module course in Articulate Storyline, that was previously built on an older version of Adobe Captivate. The entire course relied heavily on using xAPI to track the user's answers as they were going through the modules, and being able to retrieve those answers in different modules.<br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C1.jpg" alt="C 1"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C2.jpg" alt="C 2"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C3.jpg" alt="C 3"/><br><br>
