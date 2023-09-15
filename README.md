@@ -86,19 +86,21 @@ I was a part of a 7 person team (Team cmi5) during the Fall 2021 xAPI Cohort, an
 
 # Projects
 ### xAPI Implementation
-<b>Project Description:</b> This project involved recreating an 8 module course in Articulate Storyline, that was previously built on an older version of Adobe Captivate. The entire course relied heavily on using xAPI to track the user's answers as they were going through the modules, and being able to retrieve those answers in different modules.<br>
+<b>Project Description:</b> This project involved recreating an 8 module course in Articulate Storyline, that was previously built on an older version of Adobe Captivate. The entire course relied heavily on using xAPI to track the user's answers as they were going through the modules, and being able to retrieve those answers in different modules. We were also able to issue surveys throughout the course and collect the answers and report on them in real-time.<br><br>
+
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C1.jpg" alt="C 1"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C2.jpg" alt="C 2"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C3.jpg" alt="C 3"/><br><br>
 
 ### Accessibility
-<b>Project</b><br>
+<b>Project Description:</b> This project was a 10 module re-do, and one of our main focuses was to make sure the entire project was WCAG 2.1 compliant. We ensured every module and interaction was fully accessible via tabs, spacebar, etc., and tested via multiple browsers and JAWS.<br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC1.jpg" alt="QC 1"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC2.jpg" alt="QC 2"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC3.jpg" alt="QC 3"/><br><br>
 <b>Description:</b><br>
 
 ### Web Application - Nudge Navigator
+<b>Project Description:</b> This web application was meant to generate suggestions for its users based on diferent choices they made as they progressed through Step 1. Step 2 displays the suggestions and Step 3 allows the user to copy the answers and paste them to a different application. We created this web application using Vue 3.<br><br>
 <b>Step 1</b><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/NudgeNavigator-Step1.jpg" alt="Step 1"/><br><br>
 <b>Step 2</b><br>
