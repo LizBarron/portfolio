@@ -86,7 +86,10 @@ I was a part of a 7 person team, and our mission was to create test courses on d
 
 # Projects
 ### xAPI Integration
-Under construction
+<b>Project</b><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/C1.jpg" alt="C 1"/><br><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/C2.jpg" alt="C 2"/><br><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/C3.jpg" alt="C 3"/><br><br>
 
 ### Accessibility
 <b>Project</b><br>
