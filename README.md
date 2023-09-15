@@ -79,6 +79,11 @@ Austin, Texas Area
 - Created and managed a proprietary CME program to help medical professionals maintain competence and learn about new and developing areas in the field; administered the LMS and CMS.
 <hr>
 
+# Awards
+<b>Best Personal Project - Learning Solutions Conference 2022</b><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project badge"/><br><br>
+
+
 # Projects
 ### xAPI Integration
 Under construction
