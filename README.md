@@ -84,10 +84,9 @@ Austin, Texas Area
 <img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project Badge" style="max-width: 75%;"/><br><br>
 I was a part of a 7 person team (Team cmi5) during the Fall 2021 xAPI Cohort, and our mission was to create test courses on different course authoring platforms and run them through the ADL's <a href = "https://adlnet.gov/projects/cmi5-CATAPULT/">cmi5 CATAPULT! Test Suite</a> to check for xAPI/cmi5 conformance. TorranceLearning submitted our project for the Learning Solutions Conference in April 2022, and we won the Best Personal Project category.
 
-# Projects
+# Portfolio Projects
 ### xAPI Implementation
 <b>Project Description:</b> This project involved recreating an 8 module course in Articulate Storyline, that was previously built on an older version of Adobe Captivate. The entire course relied heavily on using xAPI to track the user's answers as they were going through the modules, and being able to retrieve those answers in different modules. We were also able to issue surveys throughout the course and collect the answers and report on them in real-time.<br><br>
-
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C1.jpg" alt="C 1"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C2.jpg" alt="C 2"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/C3.jpg" alt="C 3"/><br><br>
@@ -97,7 +96,6 @@ I was a part of a 7 person team (Team cmi5) during the Fall 2021 xAPI Cohort, an
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC1.jpg" alt="QC 1"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC2.jpg" alt="QC 2"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC3.jpg" alt="QC 3"/><br><br>
-<b>Description:</b><br>
 
 ### Web Application - Nudge Navigator
 <b>Project Description:</b> This web application was meant to generate suggestions for its users based on diferent choices they made as they progressed through Step 1. Step 2 displays the suggestions and Step 3 allows the user to copy the answers and paste them to a different application. We created this web application using Vue 3.<br><br>
