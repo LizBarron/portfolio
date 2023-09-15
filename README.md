@@ -81,7 +81,7 @@ Austin, Texas Area
 
 # Awards
 <b>Best Personal Project - Learning Solutions Conference 2022</b><br>
-<img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project badge" style="height:75%"/><br><br>
+<img src="{{site.baseurl | prepend: site.url}}assets/img/demofest-badge-best-personal-project.png" alt="Best Personal Project badge" style="height: 75%;"/><br><br>
 
 
 # Projects
