@@ -97,8 +97,8 @@ I was a part of a 7 person team (Team cmi5) during the Fall 2021 xAPI Cohort, an
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC2.jpg" alt="QC 2"/><br><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/QC3.jpg" alt="QC 3"/><br><br>
 
-### Web Application - Nudge Navigator
-<b>Project Description:</b> This web application was meant to generate suggestions for its users based on diferent choices they made as they progressed through Step 1. Step 2 displays the suggestions and Step 3 allows the user to copy the answers and paste them to a different application. We created this web application using Vue 3.<br><br>
+### Web Application
+<b>Project Description:</b> This web application was meant to generate suggestions for its users based on the choices they made as they progressed through Step 1. Step 2 displays the suggestions, and Step 3 allows the user to copy the answers and paste them to a different application. We created this JavaScript application using Vue 3.<br><br>
 <b>Step 1</b><br>
 <img src="{{site.baseurl | prepend: site.url}}assets/img/NudgeNavigator-Step1.jpg" alt="Step 1"/><br><br>
 <b>Step 2</b><br>
